@@ -1,3 +1,7 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Race, Ethnicity, and Income Disparities in the U.S.**
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Overview**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project explores the socioeconomic disparities that exist across different racial and ethnic groups in the United States, with a focus on income inequality and its connection to systemic barriers in education, employment, and housing. The goal is to identify patterns that reveal how race and ethnicity continue to shape economic opportunity in the U.S.
