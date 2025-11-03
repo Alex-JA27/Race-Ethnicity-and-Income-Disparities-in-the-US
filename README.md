@@ -38,7 +38,7 @@ Despite decades of policy efforts, racial and ethnic disparities in income persi
 This analysis highlights the intersection between race, opportunity, and economic mobility. By making disparities visible through data, the project encourages deeper reflection and evidence-based action toward equity and inclusion in American society.
 
 
-**Tools & Technologies **
+**Tools & Technologies**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Python, Pandas, Matplotlib, Seaborn — for data analysis and visualization
 - Jupyter Notebook — for interactive exploration
